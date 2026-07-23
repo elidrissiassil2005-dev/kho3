@@ -146,3 +146,4 @@ gimli glider, air canada flight 143, plane ran out of fuel, boeing 767, emergenc
 | 30× 10s Seedance 2.0 1080p clips | ⏳ blocked on credits — 90 credits/clip = 2,700 total (or `gemini_omni` 720p at 30/clip = 900) |
 | 30× voice takes (seed_audio) | ⏳ pending voice selection |
 | Final assembled MP4 (1920×1080, 5:00) | ⏳ pending all above |
+| Animated teaser clip (thumbnail A in motion, 4s, 1344×768, silent) | ✅ [MP4](https://d8j0ntlcm91z4.cloudfront.net/user_3GrbY6XogfGccjYWqNk1GIopEUI/hf_20260723_131740_bf3d7275-69bf-4a30-a61e-501c52c9c721.mp4) — job `bf3d7275-69bf-4a30-a61e-501c52c9c721` |
