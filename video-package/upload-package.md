@@ -21,6 +21,16 @@ Everything needed to publish the video. Copy-paste ready.
 
 **Spec:** 1280×720 (16:9), JPG/PNG under 2 MB, readable at phone size.
 
+**✅ GENERATED — download links (2752×1536 PNG, 16:9; if the PNG exceeds 2 MB when saved, re-export as JPG ~90% quality before upload):**
+
+| Concept | Download | Higgsfield job id |
+|---|---|---|
+| A — "0 FUEL" (primary) | [PNG](https://d8j0ntlcm91z4.cloudfront.net/user_3GrbY6XogfGccjYWqNk1GIopEUI/hf_20260723_130802_9851dd4a-09e2-4c02-b3de-d9af378da00e.png) | `9851dd4a-09e2-4c02-b3de-d9af378da00e` |
+| B — "NO ENGINES" | [PNG](https://d8j0ntlcm91z4.cloudfront.net/user_3GrbY6XogfGccjYWqNk1GIopEUI/hf_20260723_130848_e4047a69-790d-4d5e-ba30-7e1483770dbe.png) | `e4047a69-790d-4d5e-ba30-7e1483770dbe` |
+| C — "41,000 FT" | [PNG](https://d8j0ntlcm91z4.cloudfront.net/user_3GrbY6XogfGccjYWqNk1GIopEUI/hf_20260723_130928_c9351eb0-ee0c-492f-be68-16a54370c432.png) | `c9351eb0-ee0c-492f-be68-16a54370c432` |
+
+*Tip: upload all three via YouTube's "Test & compare" thumbnail A/B test.*
+
 **Concept A — "0 FUEL" (primary).** The white jet gliding nose-down against a dramatic sunset sky, both engines dark with small red X marks, a huge fuel gauge needle slammed past Empty. Caption text: **"0 FUEL"** top-left, huge yellow block letters with black outline.
 
 **Concept B — "NO ENGINES" (alternate).** Split composition: top half the silent jet descending; bottom half the racetrack crowded with tiny go-karts and spectators looking up. Red arrow from plane to track. Caption: **"NO ENGINES"**.
@@ -131,8 +141,8 @@ gimli glider, air canada flight 143, plane ran out of fuel, boeing 767, emergenc
 | 5-min block script (30 narration blocks + 30 clip prompts) | ✅ `script-5min-blocks.md` |
 | Long-form 9-min script (for a future extended cut) | ✅ `../script.md` |
 | Channel/hook analysis | ✅ `../channel-analysis.md` |
-| Thumbnail images (3 concepts) | ⏳ generate via `nano_banana_pro` |
-| Style key image | ⏳ pending style confirmation |
-| 30× 10s Seedance 2.0 1080p clips | ⏳ pending credits |
+| Thumbnail images (3 concepts, 2K) | ✅ generated — links in section 2 |
+| Style key image | ⏳ pending style confirmation (2 credits) |
+| 30× 10s Seedance 2.0 1080p clips | ⏳ blocked on credits — 90 credits/clip = 2,700 total (or `gemini_omni` 720p at 30/clip = 900) |
 | 30× voice takes (seed_audio) | ⏳ pending voice selection |
 | Final assembled MP4 (1920×1080, 5:00) | ⏳ pending all above |
